@@ -490,7 +490,7 @@ public class TweetHandler
         //Request headers
         string subscriptionKey = System.Configuration.ConfigurationManager.ConnectionStrings["apiKey"].ConnectionString;
         client.DefaultRequestHeaders.Add("Ocp-Apim-Subscription-Key", subscriptionKey);
-        var uri = "https://westus.api.cognitive.microsoft.com/text/analytics/v2.0/sentiment";
+        var uri = "https://northeurope.api.cognitive.microsoft.com/text/analytics/v2.0/sentiment";
         //Request body
         Sentiment sentiment = new Sentiment();
         sentiment.documents = new List<Document>();
