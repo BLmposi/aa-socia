@@ -6,11 +6,11 @@
     "WEBSITE_ENCRYPTION_KEY": "+Mz90w+y+0nopv4PXmk0FlfhXEa8kzJLdUmeSQCHYlc=",
     "ScmType": "ExternalGit",
     "WEBSITE_AUTH_ENABLED": "False",
-    "AzureWebJobsDashboard": "DefaultEndpointsProtocol=https;AccountName=solutiontemplatep4nfbrk3;AccountKey=5H67Tza59cyjTJe7gDsoyYugVxnnUoA2BZKa1LEspJBMVrr8iUe3f5F5u8OWMZW8qwPav0v6P0klL0Ti2k+IFw==",
+    "AzureWebJobsDashboard": "DefaultEndpointsProtocol=https;AccountName=anglotwitter;AccountKey=5ixL1khjqDG9O1ZDbPcJZbkUZqShf3/y44OakXlaEo1EbL2uEex0kQk/Brkr+0YFfJstiLbS+LqDVtMg6nqlXA==",
     "WEBSITE_NODE_DEFAULT_VERSION": "6.5.0",
-    "WEBSITE_CONTENTAZUREFILECONNECTIONSTRING": "DefaultEndpointsProtocol=https;AccountName=solutiontemplatep4nfbrk3;AccountKey=5H67Tza59cyjTJe7gDsoyYugVxnnUoA2BZKa1LEspJBMVrr8iUe3f5F5u8OWMZW8qwPav0v6P0klL0Ti2k+IFw==",
-    "WEBSITE_CONTENTSHARE": "tnrj63ndpot8",
-    "WEBSITE_SITE_NAME": "tnrj63ndpot8",
-    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=solutiontemplatep4nfbrk3;AccountKey=5H67Tza59cyjTJe7gDsoyYugVxnnUoA2BZKa1LEspJBMVrr8iUe3f5F5u8OWMZW8qwPav0v6P0klL0Ti2k+IFw=="
+    "WEBSITE_CONTENTAZUREFILECONNECTIONSTRING": "DefaultEndpointsProtocol=https;AccountName=anglotwitter;AccountKey=5ixL1khjqDG9O1ZDbPcJZbkUZqShf3/y44OakXlaEo1EbL2uEex0kQk/Brkr+0YFfJstiLbS+LqDVtMg6nqlXA==",
+    "WEBSITE_CONTENTSHARE": "anglotwitter",
+    "WEBSITE_SITE_NAME": "anglotwitter",
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=anglotwitter;AccountKey=5ixL1khjqDG9O1ZDbPcJZbkUZqShf3/y44OakXlaEo1EbL2uEex0kQk/Brkr+0YFfJstiLbS+LqDVtMg6nqlXA=="
   }
 }
